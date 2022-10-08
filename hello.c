@@ -1,3 +1,7 @@
+/*
+ *Este es un .C para nuestro ejercicio basico
+ */
+
 #include <stdio.h>
 
 int main(void){
