@@ -4,3 +4,7 @@
 
 aqui estamos realizando la primera modificacion
 correspondiente a la fase 2 con el repositorio local
+
+
+esta es la primera modificacion a readme 
+en donde solo escribimos 
